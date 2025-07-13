@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Saumya Ranjan Nayak
+# 👋 Hi, I'm Saumya 
 
 I'm a full-stack developer who loves building modern, responsive web applications. I specialize in the **MERN stack**, work fluently with **Next.js**, and enjoy polishing interfaces with **Tailwind CSS**. I'm currently focused on building productized tools and indie projects that are fast, functional, and user-centric.
 
