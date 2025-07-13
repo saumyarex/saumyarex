@@ -8,7 +8,7 @@ I'm a full-stack developer who loves building modern, responsive web application
 
 - **Languages**: JavaScript, TypeScript, HTML, CSS
 - **Frontend**: React, Next.js, Tailwind CSS, Aceternity UI, Shadcn UI
-- **Backend**: MongoDB, Appwrite
+- **Backend**: Node.js, Express, MongoDB, Appwrite
 - **Tools**: Git, GitHub, Postman, Figma (basic), ImageKit
 
 ---
@@ -31,15 +31,16 @@ Built with **Next.js**, **Tailwind CSS**, and **Aceternity UI**, focusing purely
 
 ## 🌱 Currently Learning
 
+- Building backend with node.js/express
 - AI agents and automation tools
 - How to productize skills as a solo founder
-- Advanced UX and storytelling for product marketing
 
 ---
 
 ## 📫 Let's Connect
 
-- ✉️ Email: [saumy224@gmail.com](mailto:saumy224@gmail.com)  
+- ✉️ Email: [saumy224@gmail.com](mailto:saumy224@gmail.com)
+- 💼 X.com(Twitter): [https://x.com/saumyarex)  
 - 💼 LinkedIn: [linkedin.com/in/saumya-a0913b171](https://linkedin.com/in/saumya-a0913b171)  
 - 🧑‍💻 GitHub: [@saumyarex](https://github.com/saumyarex)
 
