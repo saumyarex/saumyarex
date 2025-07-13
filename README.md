@@ -1,38 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Saumya Ranjan Nayak
 
-Saumya Ranjan Nayak
-+91 8319868056 | saumy224@gmail.com |    @saumyarex |    Saumya Nayak  
+I'm a full-stack developer who loves building modern, responsive web applications. I specialize in the **MERN stack**, work fluently with **Next.js**, and enjoy polishing interfaces with **Tailwind CSS**. I'm currently focused on building productized tools and indie projects that are fast, functional, and user-centric.
 
-Education
+---
 
-Pt. Ravishankar Shukla University, Raipur                                                                   Aug 2022 - Aug-2024
-Master of Computer Application, 72% 
+## 🛠 Tech Stack
 
-Atal Bihari Vajpayee Vishwavidyalaya, Bilaspur                                                          July 2019 - July 2022
-Bachelor of Science in  Computer Science, 86%
+- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Frontend**: React, Next.js, Tailwind CSS, Aceternity UI, Shadcn UI
+- **Backend**: MongoDB, Appwrite
+- **Tools**: Git, GitHub, Postman, Figma (basic), ImageKit
 
-Projects
+---
 
-ReelsPro                                                                                                                                           Source code Tech stack: Next.js, MongoDB, ImageKit, Tailwind CSS, daisyUI A video-sharing platform for creators to upload and showcase short-form content.
-Built full-stack web app using Next.js for both frontend and backend. 
-Implemented instant video upload with ImageKIt and seamless publishing workflow.
+## 💡 Projects
 
-True Feedback                                                                                                                                 Source code Tech stack: Next.js, MongoDB, React Hook Form, Tailwind CSS, Shadcn A full-stack web app that lets you collect anonymous feedback from your audience.
-Built full-stack web app using Next.js for both frontend and backend.
-Collect honest anonymous feedback from users.
+### 🎥 [ReelsPro](https://github.com/saumyarex/ReelsPro)
+> A full-stack video-sharing platform for short-form content  
+Built with **Next.js**, **MongoDB**, and **ImageKit**, this platform supports instant uploads and seamless publishing for creators.
 
-Music Academy UI                                                                                                                         Source code Tech stack: Next.js, Tailwind CSS, Aceternity UI A Next.js project with primary focused on the UI elements
-Built using Next.js.
-Fancy UI elements using Tailwind CSS and Aceternity UI
+### 🗣️ [True Feedback](https://github.com/saumyarex/True-Feedback-Fullstack-Next.js-Project)
+> An anonymous feedback collection tool  
+A full-stack app that lets creators and developers collect honest feedback from their audience. Built with **Next.js**, **React Hook Form**, and **MongoDB**.
 
-Tech Skills
+### 🎶 [Music Academy UI](https://github.com/saumyarex/Music-Academy-UI-Nextjs-project)
+> Clean and modern frontend UI for a music academy  
+Built with **Next.js**, **Tailwind CSS**, and **Aceternity UI**, focusing purely on design and UX.
 
-Languages: JavaScript, TypeScript, HTML5, CSS3
-Frameworks/Libraries: React, Next.js, Tailwind CSS 
-Backend: MongoDB, Appwrite
-Tools & Platforms: Git, GitHub, ImageKit, Figma (basic), Postman
-Other: REST APIs, Responsive Web Design, Version Control, Deployment
-Languages
+---
 
-English - Proficient
-Hindi - Native
+## 🌱 Currently Learning
+
+- AI agents and automation tools
+- How to productize skills as a solo founder
+- Advanced UX and storytelling for product marketing
+
+---
+
+## 📫 Let's Connect
+
+- ✉️ Email: [saumy224@gmail.com](mailto:saumy224@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/saumya-a0913b171](https://linkedin.com/in/saumya-a0913b171)  
+- 🧑‍💻 GitHub: [@saumyarex](https://github.com/saumyarex)
+
+---
+
+### 🧠 Quote I Live By
+
+> "Escape competition through authenticity." – Naval Ravikant
