@@ -28,9 +28,11 @@ A full-stack app that lets creators and developers collect honest feedback from 
 Built with **Next.js**, **Tailwind CSS**, and **Aceternity UI**, focusing purely on design and UX.
 
 ---
+
 ## 📊 GitHub Stats
-![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=saumyarex) 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saumyarex)
+![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=saumyarex) 
 
 ---
 ## 🌱 Currently Learning
