@@ -32,7 +32,6 @@ Built with **Next.js**, **Tailwind CSS**, and **Aceternity UI**, focusing purely
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saumyarex)
-[![GitHub Streak](https://streak-stats.demolab.com?user=saumyarex](https://git.io/streak-stats) 
 ![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=saumyarex) 
 
 ---
