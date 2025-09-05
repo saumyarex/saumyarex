@@ -15,6 +15,9 @@ I'm a full-stack developer who loves building modern, responsive web application
 
 ## 💡 Projects
 
+### 🎥 [Idea Lab](https://github.com/saumyarex/Thinking-lab)
+> Idea Lab is a full-stack blog-sharing web app built using React (frontend) and Appwrite (backend). It is a complete CRUD application where users can create, edit, and share blogs. For styling, Tailwind CSS has been used.
+
 ### 🎥 [ReelsPro](https://github.com/saumyarex/ReelsPro)
 > A full-stack video-sharing platform for short-form content  
 Built with **Next.js**, **MongoDB**, and **ImageKit**, this platform supports instant uploads and seamless publishing for creators.
