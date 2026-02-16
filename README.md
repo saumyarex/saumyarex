@@ -44,7 +44,7 @@ Built with **Next.js**, **Tailwind CSS**, and **Aceternity UI**, focusing purely
 
 ## 📫 Let's Connect
 
-- ✉️ Email: [saumy224@gmail.com](mailto:saumy224@gmail.com)
+- ✉️ Personal Site: [saumyarex.xyz](https://www.saumyarex.xyz)
 - 💼 X.com(Twitter): [https://x.com/saumyarex)  
 - 💼 LinkedIn: [linkedin.com/in/saumya-a0913b171](https://linkedin.com/in/saumya-a0913b171)  
 - 🧑‍💻 GitHub: [@saumyarex](https://github.com/saumyarex)
