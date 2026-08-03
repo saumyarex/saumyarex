@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saumya 
 
-I'm a **Design Engineer**. I help founders to design, build and ship their products through Saumay Studio[https://studio.saumyarex.xyz]. 
+I'm a **Design Engineer**. I help founders to design, build and ship their products through Saumay [Studio](https://studio.saumyarex.xyz). 
 
 ---
 
