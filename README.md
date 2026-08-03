@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Saumya 
+# 👋 Hi!
 
-I'm a **Design Engineer**. I help founders to design, build and ship their products through Saumay [Studio](https://studio.saumyarex.xyz). 
+I'm Saumya — a designer and developer who ships the real thing, not a mockup. Start with a landing page live in 5–7 days, or bring me on monthly as your embedded design engineer.
+Book a call : [Saumya Studio](https://studio.saumyarex.xyz). 
 
 ---
 
