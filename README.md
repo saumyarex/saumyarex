@@ -21,3 +21,4 @@ Book a call : [Saumya Studio](https://studio.saumyarex.xyz).
 - 🧑‍💻 GitHub: [@saumyarex](https://github.com/saumyarex)
 
 
+[![Saumya profile views](https://u8views.com/api/v1/github/profiles/93880309/views/day-week-month-total-count.svg)](https://u8views.com/github/saumyarex)
